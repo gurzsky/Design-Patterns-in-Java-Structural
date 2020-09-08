@@ -6,7 +6,7 @@ public class Shape2BridgeDemo {
 		
 		Color blue = new Blue();
 		
-		Square square = new Square(blue);
+		Shape square = new Square(blue);
 		
 		Color red = new Red();
 		
