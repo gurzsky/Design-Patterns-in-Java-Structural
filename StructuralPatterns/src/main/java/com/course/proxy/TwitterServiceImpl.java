@@ -14,10 +14,10 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class TwitterServiceImpl implements TwitterService {
 
-	private static final String TWITTER_CONSUMER_KEY = "p6BBcuQ8iExdE1me7VUvDVIQY";
-	private static final String TWITTER_SECRET_KEY = "WYBf6Sz9CQ2MgKaPQxErWIASASf4KlHGraUoI29JJoZ6eZWaBC";
-	private static final String TWITTER_ACCESS_TOKEN = "15022283-85fcsL6kflLJIWJ074jQgv2C4COosDMENukPNpCF3";
-	private static final String TWITTER_ACCESS_TOKEN_SECRET = "j7fjGTnkqJZyldI5ZR8EYvZfIYgeBTtRC37ZpZjyDnIYG";
+	private static final String TWITTER_CONSUMER_KEY = "";
+	private static final String TWITTER_SECRET_KEY = "";
+	private static final String TWITTER_ACCESS_TOKEN = "";
+	private static final String TWITTER_ACCESS_TOKEN_SECRET = "";
 	
 	public String getTimeline(String screenName) {
 		
